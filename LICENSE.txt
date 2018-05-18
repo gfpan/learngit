@@ -1,0 +1,6 @@
+
+查询编号	RandomKey varchar(30)
+订单作业号	ZYH	char(12)
+备件号		CLH	varchar(18)
+行项目号	HXMH	varchar(6)
+拒绝原因	JJYY	varchar(2)   空：正常， Z2：订单冻结 ，Z3:订单关闭
